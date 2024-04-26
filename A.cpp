@@ -111,6 +111,7 @@
 //	string treeArray;
 //	// 读取树的数量
 //	cin >> t;
+//	cout<<"yangcehngnian";
 //	for (int i = 0; i < t; i++)
 //	{
 //		// 读取每棵树的先序遍历字符串
